@@ -92,6 +92,7 @@ _This repo curates recent research on LLM Judges for automated evaluation._
 - [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://arxiv.org/abs/2411.16594)
 - [Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences](https://arxiv.org/abs/2404.12272)
 - [Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference](https://arxiv.org/abs/2501.00560)
+- [Causal Judge Evaluation: Calibrated Surrogate Metrics for LLM Systems](https://arxiv.org/abs/2512.11150)
 - [The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs](https://arxiv.org/abs/2501.10970)
 - [ReIFE: Re-evaluating Instruction-Following Evaluation](https://arxiv.org/abs/2410.07069)
 
