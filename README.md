@@ -86,6 +86,7 @@ _This repo curates recent research on LLM Judges for automated evaluation._
 ## 👨‍⚖️ Judging the Judges: Meta-Evaluation
 
 - [JudgeBench: A Benchmark for Evaluating LLM-based Judges](https://arxiv.org/abs/2410.12784)
+- [StructEval: Benchmarking LLMs on Structured-Output Generation and Conversion](https://arxiv.org/abs/2604.08523)
 - [RewardBench: Evaluating Reward Models for Language Modeling](https://arxiv.org/abs/2403.13787)
 - [Evaluating Large Language Models at Evaluating Instruction Following](https://arxiv.org/abs/2310.07641)
 - [Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge](https://arxiv.org/abs/2407.19594)
